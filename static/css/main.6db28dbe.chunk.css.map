@@ -1,0 +1,1 @@
+{"version":3,"sources":["Backing.css","style.css"],"names":[],"mappings":"AAAA,SAEI,WAAY,CACZ,aACJ,CCJA,KAEI,qBACJ","file":"main.6db28dbe.chunk.css","sourcesContent":[".backing{\n\n    margin: auto;\n    display: block;\n}","body{\n\n    background-color: #222;\n}"]}

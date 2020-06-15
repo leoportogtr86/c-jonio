@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/c-jonio/static/css/main.6db28dbe.chunk.css",
+    "main.js": "/c-jonio/static/js/main.4aa7d091.chunk.js",
+    "main.js.map": "/c-jonio/static/js/main.4aa7d091.chunk.js.map",
+    "runtime-main.js": "/c-jonio/static/js/runtime-main.944583d6.js",
+    "runtime-main.js.map": "/c-jonio/static/js/runtime-main.944583d6.js.map",
+    "static/js/2.dc5b70c2.chunk.js": "/c-jonio/static/js/2.dc5b70c2.chunk.js",
+    "static/js/2.dc5b70c2.chunk.js.map": "/c-jonio/static/js/2.dc5b70c2.chunk.js.map",
+    "index.html": "/c-jonio/index.html",
+    "precache-manifest.1f8d49e1a55575fbb8d479e87c8ef070.js": "/c-jonio/precache-manifest.1f8d49e1a55575fbb8d479e87c8ef070.js",
+    "service-worker.js": "/c-jonio/service-worker.js",
+    "static/css/main.6db28dbe.chunk.css.map": "/c-jonio/static/css/main.6db28dbe.chunk.css.map",
+    "static/js/2.dc5b70c2.chunk.js.LICENSE.txt": "/c-jonio/static/js/2.dc5b70c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.944583d6.js",
+    "static/js/2.dc5b70c2.chunk.js",
+    "static/css/main.6db28dbe.chunk.css",
+    "static/js/main.4aa7d091.chunk.js"
+  ]
+}
